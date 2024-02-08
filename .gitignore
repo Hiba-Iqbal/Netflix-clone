@@ -22,3 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
+=======
+# src folder
+/requests
+>>>>>>> 90adf3ead1db80e2e18c6d6b391bcc9f575d5bfa
